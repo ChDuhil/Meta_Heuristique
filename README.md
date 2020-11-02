@@ -1,2 +1,2 @@
 # Meta_Heuristique
-Comparaison de performance de différentes meta-heuristiques sur graphes de topologies variables
+Comparaison de performances de différentes meta-heuristiques sur graphes de topologies variables
